@@ -1,9 +1,4 @@
-# Ecuaciones Diferenciales A y B — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** Julián Fernández Bonder
-- **Clases prácticas:** Analía Silva, Erika Porten
+# Ecuaciones Diferenciales — Primer cuatrimestre de 2012
 
 ## Prácticas
 
